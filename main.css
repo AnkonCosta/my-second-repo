@@ -4,3 +4,12 @@ h1{
 h2{
     color: orange;
 }
+div{
+    background-color: blue;
+    padding: 40px;
+    border: 4px yellow solid;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
